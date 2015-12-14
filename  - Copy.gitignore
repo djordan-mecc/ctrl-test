@@ -1,0 +1,52 @@
+*.suo
+*.user
+*.cache
+*.tmp
+*.docstates
+/Website/Components/*/obj
+/Website/Components/*/bin
+/Website/Components/*/Bin
+*.log
+/Website/obj
+/Website/bin/*
+*.suo
+StyleCop.Cache
+robots.txt
+*.csproj.sitecore
+
+# ignore all files in the team dev for sitecore project
+/TDS.*/*
+# except for the csproj file and the serialization folder
+!/TDS.*/sitecore
+!/TDS.*/*.scproj
+#
+#
+*/Web.Config
+/Reports/[Bb]in/Release/*
+/Reports/[Oo]bj/Release/*
+/WNE curriculum commands/[Oo]bj/Release/*
+/Smart[Cc]atalog*/[Bb]in/*
+/Smart[Cc]atalog*/[Oo]bj/*
+/SmartCatalog.Reports/Reports/obj
+/SmartCatalog.Reports/Website/bin/SmartCatalog.Reports.pdb
+/SmartCatalog.Reports/Website/bin/SmartCatalog.Reports.dll
+/SCUtilities/obj/Release/*.dll
+/SCUtilities/obj/Release/*.pdb
+/SCUtilities/obj/Release/*.FileListAbsolute.txt
+/pscaslogin/[Bb]in/*
+/pscaslogin/[Oo]bj/*
+/IQUCurriculum/[Bb]in/*
+/IQUCurriculum/[Oo]bj/*
+/RicPortalLogin/[Bb]in/*
+/RicPortalLogin/[Oo]bj/*
+/UNCOCurriculum/[Bb]in/*
+/UNCOCurriculum/[Oo]bj/*
+/WellsCurric2/[Bb]in/*
+/WellsCurric2/[Oo]bj/*
+/Reports/bin/Debug
+/Reports/obj/Debug
+/SCUtilities/obj/Debug
+/WNE curriculum commands/bin/Debug
+/WNE curriculum commands/obj/Debug
+/Workflow/bin/Debug
+/Workflow/obj/Debug
