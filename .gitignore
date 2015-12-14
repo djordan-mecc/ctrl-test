@@ -1,0 +1,7 @@
+*.cache
+*.csproj.sitecore
+*.suo
+*.user
+[Bb]in
+subfolder-3-A
+
